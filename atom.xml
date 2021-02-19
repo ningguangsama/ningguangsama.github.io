@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ningguangsama.github.io</id>
     <title>周周的小站</title>
-    <updated>2021-02-19T09:22:58.790Z</updated>
+    <updated>2021-02-19T09:23:32.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ningguangsama.github.io"/>
     <link rel="self" href="https://ningguangsama.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://ningguangsama.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 周周的小站</rights>
     <entry>
-        <title type="html"><![CDATA[烟花小计]]></title>
+        <title type="html"><![CDATA[烟花小记]]></title>
         <id>https://ningguangsama.github.io/post/yan-hua-xiao-ji/</id>
         <link href="https://ningguangsama.github.io/post/yan-hua-xiao-ji/">
         </link>
