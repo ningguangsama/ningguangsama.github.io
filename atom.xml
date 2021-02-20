@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ningguangsama.github.io</id>
     <title>周周的小站</title>
-    <updated>2021-02-19T09:26:10.267Z</updated>
+    <updated>2021-02-20T06:34:53.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ningguangsama.github.io"/>
     <link rel="self" href="https://ningguangsama.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://ningguangsama.github.io/images/avatar.png</logo>
     <icon>https://ningguangsama.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 周周的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[KBear云雀入手测评]]></title>
+        <id>https://ningguangsama.github.io/post/kbear-yun-que-ru-shou-ce-ping/</id>
+        <link href="https://ningguangsama.github.io/post/kbear-yun-que-ru-shou-ce-ping/">
+        </link>
+        <updated>2021-02-20T06:13:47.000Z</updated>
+        <content type="html"><![CDATA[<p>在经过酷友的安利之后，入手了云雀。已经用了两个月有余，现在回过头来评价一下这个不足200元的耳机有什么过人之处吧。<br>
+外观<br>
+作为长时间挂在耳朵上的电子产品，自然也需要具备装饰的属性。云雀在外观方面可以说是非常清新。刻有六边形图案金属的上盖，但是只保留了一个完整的六边形。不多不少的装饰略显克制。正面看是两面反光的金属，侧面刻有看见金属的条纹。<img src="https://ningguangsama.github.io/post-images/1613802131243.jpg" alt="" loading="lazy"><br>
+墙体采用塑料材质，透明设计，可以看见里面的动圈动铁组合和走线。<img src="https://ningguangsama.github.io/post-images/1613802257372.jpg" alt="" loading="lazy"><br>
+入耳的部分是金属，且带有白色滤网。<img src="https://ningguangsama.github.io/post-images/1613802330387.jpg" alt="" loading="lazy"><br>
+外观说完我们来看看音质<br>
+先说结论，云雀确实是符合这个价位的一款产品。人声非常的清澈，声场也比较广。低音存在感不高也不轰头。相较于 db3来说，听女声的感觉会好了不少。乐器与人声的分离程度也好一些。可能是由于入耳金属部分较长，所以没有db3更贴合耳朵轮廓。（个人因素）<br>
+由于云雀的敏感度很高，不像db3一样吃前端的设备。在同样不接入魅族解码耳放的时候也不能听出多大的差别。<img src="https://ningguangsama.github.io/post-images/1613802748145.jpg" alt="" loading="lazy"><br>
+之所以要在这个时候写这一个简短的测评，因为我的耳机今天要送去修了。因为它左耳的部分出现了晃动的异响。在这里做个总结等它回来！！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从零开始的客制化键盘]]></title>
         <id>https://ningguangsama.github.io/post/cong-ling-kai-shi-de-ke-zhi-hua-jian-pan/</id>
