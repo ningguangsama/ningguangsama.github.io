@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ningguangsama.github.io</id>
-    <title>周周的小站</title>
-    <updated>2021-02-28T09:10:44.253Z</updated>
+    <title>周周的小屋</title>
+    <updated>2021-06-03T00:30:08.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ningguangsama.github.io"/>
     <link rel="self" href="https://ningguangsama.github.io/atom.xml"/>
-    <subtitle>周周の小站</subtitle>
     <logo>https://ningguangsama.github.io/images/avatar.png</logo>
     <icon>https://ningguangsama.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 周周的小站</rights>
+    <rights>All rights reserved 2021, 周周的小屋</rights>
     <entry>
         <title type="html"><![CDATA[写在18发布会前]]></title>
         <id>https://ningguangsama.github.io/post/xie-zai-18-fa-bu-hui-qian/</id>
